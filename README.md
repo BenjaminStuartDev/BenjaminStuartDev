@@ -41,4 +41,4 @@ When I'm not coding, here are a few things I enjoy doing:
 - Playing video games 🎮
 - Watching movies and TV shows 🎥
 
-- Thanks for stopping by, and I hope to hear from you soon!
+Thanks for stopping by, and I hope to hear from you soon!
