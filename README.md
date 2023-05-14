@@ -1,10 +1,10 @@
 # Welcome! 👋
 
-Hi there, I'm Ben - a code monkey in training! 🐒 As a junior software developer, I love creating magical software solutions that solve real-world problems. I'm always on the lookout for new architectural patterns and tools to help me level up my skills and build more powerful and efficient software.
+Hi there, I'm Ben - a code monkey in training! 🐒 As a junior software developer, I love creating software solutions to solve real-world problems. I'm always on the lookout for new architectural patterns and tools to help me level up my skills and build more powerful and efficient software.
 
-When I'm not slinging code, you can usually find me exploring the latest tech trends, tinkering with new development tools, or trying to catch up on my never-ending reading list. 📚
+When I'm not slinging code, you can usually find me tinkering with new development tools, or trying to catch up on my never-ending reading list. 📚
 
-If you want to chat about coding, share some cool dev tricks or collaborate on a project, feel free to reach out to me. I'm always up for a good coding adventure! 💻
+If you want to chat about coding, share some cool dev tricks or collaborate on a project, feel free to reach out to me. I'm always up for a good adventure! 💻
 ## Languages and Technologies
 
 I have experience working with the following programming languages and technologies:
